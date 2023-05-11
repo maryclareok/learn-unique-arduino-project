@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="0">
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffff0a010000800000008a030000d8020000</PLACEMENT>
+  <WINDOW type="VIEW3D" module="VIEW3D">
+   <camera>
+    <position x="0" y="-3521977" z="3521977"/>
+    <focus x="0" y="0" z="0"/>
+    <up x="0" y="707106" z="707106"/>
+   </camera>
+  </WINDOW>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
